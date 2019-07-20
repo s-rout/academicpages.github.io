@@ -83,10 +83,10 @@ author:
   name             : "Sampi"
   avatar           : "sampi_2017.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Delft, NL"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.nl/citations?hl=en&user=4a-5jJcAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
