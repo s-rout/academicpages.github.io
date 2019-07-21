@@ -1,5 +1,7 @@
 ---
-title: 'Blog Post number 4'
+title: 'Team Triton: IRONMAN 70.3 
+June 7th, 2018 Zell am See, Austria.
+'
 date: 2015-08-14
 permalink: /posts/2012/08/blog-post-4/
 tags:
