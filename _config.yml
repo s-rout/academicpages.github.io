@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Samprajani Rout"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Samprajani Rout"
 description              : &description "personal description"
