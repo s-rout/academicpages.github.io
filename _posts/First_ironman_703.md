@@ -1,7 +1,6 @@
 ---
-title: 'Team Triton: IRONMAN 70.3 
+title: 'Team Triton: IRONMAN 70.3'
 June 7th, 2015 Kraichgau
-'
 date: June 2015
 permalink: /posts/2012/08/blog-post-1/
 tags:
