@@ -1,5 +1,6 @@
 ---
-title: 'Blog Post number 3'
+title: 'Team Triton: IRONMAN 70.3 
+June 7th, 2017, Kraichgau
 date: 2014-08-14
 permalink: /posts/2014/08/blog-post-3/
 tags:
