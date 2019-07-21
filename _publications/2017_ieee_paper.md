@@ -7,7 +7,7 @@ collection: publications
 excerpt: 'On compressed sensing of atrial electrograms'
 date: May 2017
 venue: 'IEEE ISCAS'
-paperurl: 'http://s-rout.github.io/files/iscas2017_rout_serdijn.pdf'
+# paperurl: 'http://s-rout.github.io/files/iscas2017_rout_serdijn.pdf'
 ---
 
 
