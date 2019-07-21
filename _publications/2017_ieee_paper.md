@@ -5,10 +5,10 @@ acquisition"
 collection: publications
 # permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'state-space methodology'
-date: May 2019
+date: May 2017
 venue: 'IEEE ISCAS'
-paperurl: 'http://s-rout.github.io/files/iscas2019_rout.pdf'
+paperurl: 'http://s-rout.github.io/files/iscas2017_rout_serdijn.pdf'
 ---
 
 
-[Download paper here](http://s-rout.github.io/files/iscas2019_rout.pdf)
+[Download paper here](http://s-rout.github.io/files/iscas2017_rout_serdijn.pdf)
