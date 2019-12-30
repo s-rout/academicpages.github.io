@@ -1,8 +1,16 @@
-# Research projects
+---
+layout: archive
+title: "Papers"
+permalink: /research/
+author_profile: true
+---
 
-## State-space sigma-delta ADC for cardiac signal acquisition
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
 
-1. xyz
-2. abc
-3. lmn
-4. pqr
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
