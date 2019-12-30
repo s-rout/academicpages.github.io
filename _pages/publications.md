@@ -11,7 +11,7 @@ author_profile: true
 
 ## Journals
 
-1. S. Rout and W. A. Serdijn, "High-pass Σ∆ converter design using a state-space approach and its application to cardiac signal acquisition," in IEEE Transactions on Biomedical Circuits and Systems, vol. 12, no. 3, pp. 483-494, June 2018.
+1. S. Rout and W. A. Serdijn, "High-pass Σ∆ converter design using a state-space approach and its application to cardiac signal acquisition," in IEEE Transactions on Biomedical Circuits and Systems, vol. 12, no. 3, pp. 483-494, June 2018. [Paper](http://s-rout.github.io/files/paper1.pdf))
 
 
 ## Conferences
