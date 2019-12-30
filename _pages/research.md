@@ -5,13 +5,15 @@ permalink: /research/
 author_profile: true
 ---
 
-## Research Project 1
-1. aBV
-2. AVB
-3. HNM
+## Compressed-sensing analog front-end (AFE) for the acquisition of atrial electrograms
+1. Proposed rakeness based compressed-sensing to acquire multichannel atrial electrograms (AEG)
+2. Provisional US patent titled"Rakeness-based compressed-sensing of atrial electrograms" (Serial No. 62/838,489)
+3. Hardware architectural modeling of CS-AFE for multichannel AEG acquisition
+4. Integration of flexible array and AFE for use at Erasmus Medical Center, Rotterdam
 
 
-## research Prohect 2
+## State-space approach for designing high-pass $\Sigma\Delta$ ADCs
 
-1. FFG
-2. GHT
+1. State-space approach for designing high-pass $\Sigma\Delta$ ADCs
+2. Dynamic range of the proposed orthonormal $\Sigma$$\Delta$ ADC improves by 3 dB.
+3. Taped out a state-spaced based high-pass sigma-delta ADC AFE for ECG signal acquisition.
