@@ -6,26 +6,21 @@ author_profile: true
 ---
 
 ## Patents
-
-1. Proposed rakeness based compressed-sensing to acquire multichannel atrial electrograms (AEG)
-2. Provisional US patent titled"Rakeness-based compressed-sensing of atrial electrograms" (Serial No. 62/838,489)
-3. Hardware architectural modeling of CS-AFE for multichannel AEG acquisition
-4. Integration of flexible array and AFE for use at Erasmus Medical Center, Rotterdam
+1. Provisional US patent titled "Rakeness-based compressed-sensing of atrial electrograms" (Serial No. 62/838,489)
 
 
 ## Journals
 
-1. Proposed a state-space methodology to synthesize arbitrary signal transfer characteristic $\Sigma$$\Delta$ ADC.
-2. Dynamic range of the proposed orthonormal $\Sigma$$\Delta$ ADC improves by 3 dB.
-3. Taped out a state-spaced based high-pass sigma-delta ADC AFE for ECG signal acquisition.
-
+1. S. Rout and W. A. Serdijn, "High-pass Σ∆ converter design using a state-space approach and its application to cardiac signal acquisition," in IEEE Transactions on Biomedical Circuits and Systems, vol. 12, no. 3, pp. 483-494, June 2018.
 
 
 ## Conferences
 
-1. Proposed a state-space methodology to synthesize arbitrary signal transfer characteristic $\Sigma$$\Delta$ ADC.
-2. Dynamic range of the proposed orthonormal $\Sigma$$\Delta$ ADC improves by 3 dB.
-3. Taped out a state-spaced based high-pass sigma-delta ADC AFE for ECG signal acquisition.
+1. S. Rout S. B. Mashhadi, W. A. Serdijn, "A Subthreshold Source-Coupled Logic based Time-Domain Comparator for SAR ADC based Cardiac Front-Ends ," 2019 IEEE APCCAS, Bangkok.
+2. A. Das, S. Rout, A. Urso, W. A. Serdijn, "Activity dependent multichannel ADC architecture BioCAS 2019 using level crossing quantisation for atrial electrogram recording ," 2019 IEEE Biomedical Circuits and Systems (BioCAS), Nara, Japan, 2019.
+3. S. Rout, M. Mangia, F. Pareschi, G. Setti, R. Rovatti and W. A. Serdijn, "Rakeness-based compressed sensing for the diagnosis of atrial fibrillation ," 2019 IEEE International Symposium on
+Circuits and Systems (ISCAS), Sapporo, Japan, 2019, pp. 1-5.
+4. S. Rout and W. A. Serdijn, "Structured electronic design of high-pass Σ∆ converters and their application to cardiac signal acquisition," in 2017 IEEE International Symposium on Circuits and Systems (ISCAS). IEEE, 2017, pp. 2416-2419.
 
 
 
