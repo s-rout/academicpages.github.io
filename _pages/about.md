@@ -17,6 +17,8 @@ I am a 4th year PhD student advised by [Prof. Wouter Serdijn](http://bioelectron
 
 To get in touch with me, you can write me an email or drop by my office.
 
+s.rout@tudelft.nl<br/>
+
 Samprajani Rout<br/>
 HB 13.060<br/>
 Faculty of EEMCS,<br/>
