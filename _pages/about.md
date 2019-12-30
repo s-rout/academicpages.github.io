@@ -17,11 +17,11 @@ I am a 4th year PhD student advised by [Prof. Wouter Serdijn](http://bioelectron
 
 To get in touch with me, you can write me an email or drop by my office.
 
-Samprajani Rout  (<-- two spaces)
-HB 13.060  (<-- two spaces)
-Faculty of EEMCS,  (<-- two spaces)
-Department of Microelectronics, TU Delft  (<-- two spaces)
-Mekelweg 4  (<-- two spaces)
+Samprajani Rout<br/>
+HB 13.060<br/>
+Faculty of EEMCS,<br/>
+Department of Microelectronics, TU Delft<br/>
+Mekelweg 4<br/>
 NL-2628 CD Delft
 <!---
 Others
