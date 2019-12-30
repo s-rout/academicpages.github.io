@@ -1,16 +1,15 @@
 ---
 permalink: /
-title: "Hello! This is Samprajani Rout."
-excerpt: "About me"
+title: "Bio."
+excerpt: "Home"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a PhD Student of prof. [Wouter Serdijn](http://bioelectronics.tudelft.nl/~wout/) at the Bioelectronics Group, TU Delft.
+I am 4th year PhD student advised by [Prof. Wouter Serdijn](http://bioelectronics.tudelft.nl/~wout/) at the Bioelectronics Group, TU Delft. I work in the field of analog and mixed-signal circuit design and conduct research on efficient architectures for the acquisiton of cardiac signals. 
 
-I am working in analog and mixed signal circuits design. My main research interests lies in sigma-delta analog-to-digital converters, compressed sensing based analog front-ends and their applications in cardiac signal acquisition.
 
 
 <!---
