@@ -21,3 +21,11 @@ Representation of the atrial signals: (a) During sinus rhythm with A and B repre
 1. Proposed a state-space methodology to synthesize arbitrary signal transfer characteristic $\Sigma$$\Delta$ ADC.
 2. Dynamic range of the proposed orthonormal $\Sigma$$\Delta$ ADC improves by 3 dB.
 3. Taped out a state-spaced based high-pass sigma-delta ADC AFE for ECG signal acquisition.
+
+![alt text](/images/baseline_wandering_ECG.png)<br/> 
+
+
+![alt text](/images/proposed_method_HPSDADC.png)<br/> 
+
+
+![alt text](/images/reduced_baseline.png)<br/> 
