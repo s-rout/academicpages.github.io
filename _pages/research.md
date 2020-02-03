@@ -17,7 +17,7 @@ Figure 1: Representation of the atrial signals: (a) During sinus rhythm with A a
 
 
 
-![alt text](/images/system_diagram_AEG.png = 100 x 100)<br/> 
+![alt text](/images/system_diagram_AEG.png)<br/> 
 Figure 2: System-level diagram of the acquisition of atrial electrograms.
 
 
