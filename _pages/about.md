@@ -10,8 +10,9 @@ redirect_from:
 
 ## Bio
 
-I am a 4th year PhD student advised by [Prof. Wouter Serdijn](http://bioelectronics.tudelft.nl/~wout/) at the Bioelectronics Group, TU Delft. I work in the field of analog and mixed-signal circuit design and conduct research on developing efficient architectures for the acquisiton of cardiac signals. I am also working on compressed-sensing to acquire multi-channel atrial electrograms efficiently.  
+I am a 4th year PhD student advised by [Prof. Wouter Serdijn](http://bioelectronics.tudelft.nl/~wout/) at the Bioelectronics Group, TU Delft. Broadly, my current research interests include algorithms and mixed signal circuit design for biomedical circuits and systems with a special focus on cardiac applications.
 
+My expertise lies in the field of analog and mixed-signal circuit design and I conduct research on co-designing hardware-algorithms for resource-efficient acquisition of multi-channel atrial electrograms for the early diagnosis of atrial fibrillation. 
 
 ## Contact
 
