@@ -30,3 +30,6 @@ Figure 1: Power spectral density of (a) Clean ECG (b) ECG with baseline wanderin
 Figure 2: Flowchart of the proposed state-space based approach for $\Sigma$$\Delta$ ADC topologies
 
 
+![alt text](/images/reduced_baseline.png)<br/> 
+Figure 3: Time-domain ECG signal from the orthonormal HP$\Sigma$$\Delta$ modulator output compared with raw ECG (MIT-BIH), Harrison
+amplifier and MATLAB filtered output
