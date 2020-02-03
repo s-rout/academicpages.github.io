@@ -13,6 +13,7 @@ author_profile: true
 4. Integration of flexible array and AFE for use at Erasmus Medical Center, Rotterdam 
 
 ![alt text](/images/wavefront_SR_AF.png)
+Representation of the atrial signals: (a) During sinus rhythm with A and B representing the transmission and the receiving node respectively; (b) Atrial fibrillation with a1, a2, a3 representing the secondary focii.
 
 
 ## State-space approach for designing high-pass $\Sigma\Delta$ ADCs
