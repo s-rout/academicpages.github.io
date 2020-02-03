@@ -23,9 +23,10 @@ Representation of the atrial signals: (a) During sinus rhythm with A and B repre
 3. Taped out a state-spaced based high-pass sigma-delta ADC AFE for ECG signal acquisition.
 
 ![alt text](/images/baseline_wandering_ECG.png)<br/> 
+Figure 1: Power spectral density of (a) Clean ECG (b) ECG with baseline wandering (Data courtesy: MIT-BIH database)
 
 
 ![alt text](/images/proposed_method_HPSDADC.png)<br/> 
+Figure 2: Flowchart of the proposed state-space based approach for $\Sigma$$\Delta$ ADC topologies
 
 
-![alt text](/images/reduced_baseline.png)<br/> 
