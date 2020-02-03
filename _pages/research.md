@@ -10,7 +10,9 @@ author_profile: true
 1. Proposed rakeness based compressed-sensing to acquire multichannel atrial electrograms (AEG)
 2. Provisional US patent titled"Rakeness-based compressed-sensing of atrial electrograms" (Serial No. 62/838,489)
 3. Hardware architectural modeling of CS-AFE for multichannel AEG acquisition
-4. Integration of flexible array and AFE for use at Erasmus Medical Center, Rotterdam
+4. Integration of flexible array and AFE for use at Erasmus Medical Center, Rotterdam 
+
+![alt text](http://images/wavefront_SR_AF.png)
 
 
 ## State-space approach for designing high-pass $\Sigma\Delta$ ADCs
