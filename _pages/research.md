@@ -12,8 +12,13 @@ author_profile: true
 3. Hardware architectural modeling of CS-AFE for multichannel AEG acquisition
 4. Integration of flexible array and AFE for use at Erasmus Medical Center, Rotterdam 
 
-![alt text](/images/wavefront_SR_AF.png)<br/>
-Representation of the atrial signals: (a) During sinus rhythm with A and B representing the transmission and the receiving node respectively; (b) Atrial fibrillation with a1, a2, a3 representing the secondary focii.
+![alt text](/images/wavefront_SR_AF.png)<br/> 
+Figure 1: Representation of the atrial signals: (a) During sinus rhythm with A and B representing the transmission and the receiving node respectively; (b) Atrial fibrillation with a1, a2, a3 representing the secondary focii. 
+
+
+
+![alt text](/images/system_diagram_AEG.png)<br/> 
+Figure 2: System-level diagram of the acquisition of atrial electrograms.
 
 
 ## State-space approach for designing high-pass $\Sigma\Delta$ ADCs for the acquisition of electrocardiogram (ECG)
