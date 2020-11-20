@@ -10,12 +10,7 @@ tags:
 After ISCAS 2019 in Sapporo, I headed to Yamanashi where I would participate in my first trail run. I chose a distance of 14 km. 
 
 ![editing an image](/images/blog_images/fuji_run/fuji_run1.jpg)
-
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
+![editing an image](/images/blog_images/fuji_run/fuji_run2.jpg)
+![editing an image](/images/blog_images/fuji_run/fuji_run3.jpg)
+![editing an image](/images/blog_images/fuji_run/fuji_run4.jpg)
+![editing an image](/images/blog_images/fuji_run/fuji_run5.jpg)
