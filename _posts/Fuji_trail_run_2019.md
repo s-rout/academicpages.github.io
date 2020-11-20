@@ -14,3 +14,5 @@ After ISCAS 2019 in Sapporo, I headed to Yamanashi where I would participate in 
 ![editing an image](/images/blog_images/fuji_run/fuji_run3.jpg)
 ![editing an image](/images/blog_images/fuji_run/fuji_run4.jpg)
 ![editing an image](/images/blog_images/fuji_run/fuji_run5.jpg)
+Aren't headings cool?
+------
