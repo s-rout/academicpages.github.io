@@ -21,17 +21,17 @@ author_profile: true
 
 ![alt text](/images/blog_images/yoga_portfolio/IMG_1370.jpg)<br/> 
 
-![alt text](/images/blog_images/yoga_portfolio/IMG_1473.jpg)<br/> 
+![alt text](/images/blog_images/yoga_portfolio/IMG_1373.jpg)<br/> 
 
-![alt text](/images/blog_images/yoga_portfolio/IMG_1477.jpg)<br/> 
+![alt text](/images/blog_images/yoga_portfolio/IMG_1377.jpg)<br/> 
 
-![alt text](/images/blog_images/yoga_portfolio/IMG_1480.jpg)<br/> 
+![alt text](/images/blog_images/yoga_portfolio/IMG_1380.jpg)<br/> 
 
-![alt text](/images/blog_images/yoga_portfolio/IMG_1483.jpg)<br/> 
+![alt text](/images/blog_images/yoga_portfolio/IMG_1383.jpg)<br/> 
 
-![alt text](/images/blog_images/yoga_portfolio/IMG_1486.jpg)<br/>
+![alt text](/images/blog_images/yoga_portfolio/IMG_1386.jpg)<br/>
 
-![alt text](/images/blog_images/yoga_portfolio/IMG_1487.jpg)<br/>
+![alt text](/images/blog_images/yoga_portfolio/IMG_1387.jpg)<br/>
 
 
-![alt text](/images/blog_images/yoga_portfolio/IMG_1489.jpg)<br/>
+![alt text](/images/blog_images/yoga_portfolio/IMG_1389.jpg)<br/>
