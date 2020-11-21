@@ -1,9 +1,14 @@
 ---
-layout: archive
-title: "Yoga"
-permalink: /health/
-author_profile: true
+title: "Surya Namaskaar"
+collection: yoga
+type: "beginner course"
+permalink: /yoga/surya-namaskaar
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
+
+This is a description of a teaching experience. You can use markdown like any other post.
 
 If you are interested to learn yoga with me, drop me a line on my email. 
 
