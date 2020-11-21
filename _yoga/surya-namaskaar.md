@@ -1,9 +1,6 @@
 ---
 title: "Surya Namaskaar"
-collection: yoga
-type: "beginner course"
-permalink: /yoga-health/surya-namaskaar/
-venue: "University 1, Department"
+permalink: /yoga-health/surya-namaskaar
 date: 2014-01-01
 location: "City, Country"
 ---
