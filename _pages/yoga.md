@@ -5,6 +5,8 @@ permalink: /health/
 author_profile: true
 ---
 
+If you are interested to learn yoga with me, drop me a line on my email. 
+
 ## Certification and experience
 
 1. Certified Yoga Instructor from Swami Vivekananda Yoga Anusandhana Samsthana (SVYASA). [Link](https://svyasa.edu.in/)
