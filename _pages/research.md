@@ -8,7 +8,7 @@ author_profile: true
 ## Compressed-sensing analog front-end (AFE) for the acquisition of atrial electrograms (AEG)
 
 1. Proposed rakeness based compressed-sensing to acquire multichannel atrial electrograms (AEG); Results presented at IEEE ISCAS 2019. [Paper] (https://ieeexplore.ieee.org/document/8702398)
-2. Filed provisional US patent titled "Rakeness-based compressed-sensing of atrial electrograms" (Serial No. 62/838,489) Date: April, 2019. 
+2. Filed provisional US patent titled "Rakeness-based compressed-sensing of atrial electrograms" [Link](https://patents.justia.com/inventor/samprajani-rout)Date: April, 2019. 
 3. Hardware architectural modeling of CS-AFE for multichannel AEG acquisition
 4. Integration of flexible array and AFE for use at Erasmus Medical Center, Rotterdam 
 
