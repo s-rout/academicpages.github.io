@@ -1,8 +1,8 @@
 ---
 title: "Surya Namaskaar"
 permalink: /yoga-health/surya-namaskaar
-date: 2014-01-01
-location: "City, Country"
+
+
 ---
 
 (All photo credits to Balakumaran, IISc, Bangalore) 
