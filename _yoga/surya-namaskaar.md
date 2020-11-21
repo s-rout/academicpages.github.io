@@ -1,7 +1,8 @@
 ---
 title: "Surya Namaskaar"
 permalink: /yoga-health/surya-namaskaar
-
+collection: yoga
+type: "yoga"
 
 ---
 
