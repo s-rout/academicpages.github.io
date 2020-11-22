@@ -1,10 +1,8 @@
 ---
-title: "Surya Namaskaar"
-collection: yoga
+title: 'Surya Namaskaar'
+collection: yoga-health
 type: "yoga"
 permalink: /yoga-health/surya-namaskaar
-
-
 ---
 
 (All photo credits to Balakumaran, IISc, Bangalore) 
