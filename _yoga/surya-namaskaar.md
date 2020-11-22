@@ -1,7 +1,6 @@
 ---
-layout: archive
 title: 'Surya Namaskaar'
-collection: yoga-health
+collection: yoga
 type="yoga"
 permalink: /yoga-health/surya-namaskaar
 ---
