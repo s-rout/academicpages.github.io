@@ -2,7 +2,8 @@
 title: 'Surya Namaskaar'
 collection: yoga
 type="yoga"
-permalink: /yoga-health/surya-namaskaar
+permalink: /yoga-health/2020-surya-namaskaar
+date: 2020-10-1
 ---
 
 (All photo credits to Balakumaran, IISc, Bangalore) 

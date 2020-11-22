@@ -1,16 +1,22 @@
 ---
 layout: archive
-title: "Yoga"
 permalink: /yoga-health/
+title: "Yoga"
 author_profile: true
+redirect_from:
+  - /wordpress/yoga/
 ---
 
-If you are interested to learn yoga with me, drop me a line on my email. I am a certified Yoga Instructor from Swami Vivekananda Yoga Anusandhana Samsthana (SVYASA). [Link](https://svyasa.edu.in/). I have taught yoga at Studium Generale, TU Delft, NL. [Link](https://sg.tudelft.nl/weekly-events/yoga-meditation-sessions/)
-
+Includes blogs contributed to this site. 
 
 {% include base_path %}
-
-{% for post in site.yoga reversed %}
+{% capture written_year %}'None'{% endcapture %}
+{% for post in site.yoga %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
   {% include archive-single.html %}
 {% endfor %}
 
