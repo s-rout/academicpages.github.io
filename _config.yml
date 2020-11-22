@@ -187,7 +187,9 @@ collections:
   talks:
     output: false
     permalink: /:collection/:path/
-
+  yoga:
+    output: false
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
