@@ -3,7 +3,6 @@ title: "Surya Namaskaar"
 collection: yoga
 type: "Undergraduate course"
 permalink: /yoga/2020-surya-namaskaar
-venue: "University 1, Department"
 date: 2020-01-01
 location: "City, Country"
 ---
@@ -33,3 +32,4 @@ Surya namaskaar (Sun salutations)
 
 
 ![alt text](/images/blog_images/yoga_portfolio/IMG_1389.jpg)<br/>
+venue: "University 1, Department"
