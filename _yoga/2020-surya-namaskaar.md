@@ -1,6 +1,7 @@
 ---
 title: 'Surya Namaskaar'
 collection: yoga
+type: "Undergraduate course"
 permalink: /yoga/2020-surya-namaskaar
 venue: "University 1, Department"
 date: 2020-01-01
