@@ -1,5 +1,5 @@
 ---
-title: 'Surya Namaskaar'
+title: "Surya Namaskaar"
 collection: yoga
 type: "Undergraduate course"
 permalink: /yoga/2020-surya-namaskaar
