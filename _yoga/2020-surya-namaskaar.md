@@ -22,3 +22,8 @@ Heading 2
 
 Heading 3
 ======
+
+
+![alt text](/images/blog_images/yoga_portfolio/IMG_1365.jpg)<br/> 
+
+![alt text](/images/blog_images/yoga_portfolio/IMG_1366.jpg)<br/> 
