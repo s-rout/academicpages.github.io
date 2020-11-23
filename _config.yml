@@ -221,6 +221,18 @@ defaults:
       author_profile: false
       share: true
       comments: true
+
+        # _yoga
+  - scope:
+      path: ""
+      type: yoga
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
  
 
 # Sass/SCSS
