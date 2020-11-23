@@ -188,7 +188,7 @@ collections:
     output: false
     permalink: /:collection/:path/
   yoga:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 # Defaults
