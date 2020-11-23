@@ -8,7 +8,5 @@ location: "City, Country"
 ---
 
 (All photo credits to Balakumaran, IISc, Bangalore) 
-
 This is all fine and good!
-
 xxxxxxxxxx
