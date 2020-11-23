@@ -9,17 +9,9 @@ location: "City, Country"
 ---
 
 (All photo credits to Balakumaran, IISc, Bangalore) 
-This is all fine and good!
-xxxxxxxxxx
 
-
-
-Heading 1
+Surya namaskaar (Sun salutations)
 ======
-
-Heading 2
-======
-### Surya namaskaar (Sun salutations)
 
 ![alt text](/images/blog_images/yoga_portfolio/IMG_1365.jpg)<br/> 
 
