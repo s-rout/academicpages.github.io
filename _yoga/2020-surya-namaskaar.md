@@ -2,7 +2,7 @@
 title: 'Surya Namaskaar'
 collection: yoga
 type="yoga"
-permalink: /yoga-health/2020-surya-namaskaar
+permalink: /yoga/2020-surya-namaskaar
 date: 2020-10-1
 ---
 
