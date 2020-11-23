@@ -1,7 +1,7 @@
 ---
 title: 'Surya Namaskaar'
-date: 2020-10-01
-permalink: /yoga/2020-surya-namaskaar
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: yoga
 ---
 
 (All photo credits to Balakumaran, IISc, Bangalore) 
@@ -28,3 +28,4 @@ permalink: /yoga/2020-surya-namaskaar
 
 
 ![alt text](/images/blog_images/yoga_portfolio/IMG_1389.jpg)<br/>
+permalink: /yoga/2020-surya-namaskaar
