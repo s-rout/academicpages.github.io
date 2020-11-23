@@ -1,9 +1,8 @@
 ---
 title: 'Surya Namaskaar'
-collection: yoga
-type="yoga"
-permalink: /yoga/2020-surya-namaskaar
 date: 2020-10-1
+permalink: /yoga/2020-surya-namaskaar
+
 ---
 
 (All photo credits to Balakumaran, IISc, Bangalore) 
