@@ -1,19 +1,15 @@
 ---
-layout: archive
-permalink: /yoga-health/
-title: "Yoga"
-author_profile: true
+title: "Teaching experience 1"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
-Includes blogs contributed to this site. 
-
 {% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.yoga %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
+
+{% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
