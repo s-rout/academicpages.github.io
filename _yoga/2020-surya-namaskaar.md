@@ -1,6 +1,6 @@
 ---
 title: 'Surya Namaskaar'
-date: 2020-10-1
+date: 2020-10-01
 permalink: /yoga/2020-surya-namaskaar
 ---
 
