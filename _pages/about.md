@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-![alt text](/images/blog_images/yoga_portfolio/IMG_1479.jpg)<br/> 
+<!---![alt text](/images/blog_images/yoga_portfolio/IMG_1479.jpg)<br/> 
+--> 
+![alt text](/images/sampi_2020_nov.png)<br/> 
 ## Bio
 
 I am a 4th year PhD student advised by [Prof. Wouter Serdijn](http://bioelectronics.tudelft.nl/~wout/) at the Bioelectronics Group, TU Delft. Broadly, my current research interests include algorithms and mixed signal circuit design for biomedical circuits and systems with a special focus on cardiac applications.
