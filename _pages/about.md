@@ -14,6 +14,8 @@ redirect_from:
 At Nationaal Park De Hoge Veluwe, Nov 2020.  
 ## Bio
 
+नमस्कार:!
+
 I am a 4th year PhD student advised by [Prof. Wouter Serdijn](http://bioelectronics.tudelft.nl/~wout/) at the Bioelectronics Group, TU Delft. Broadly, my current research interests include algorithms and mixed signal circuit design for biomedical circuits and systems with a special focus on cardiac applications.
 
 My expertise lies in the field of analog and mixed-signal circuit design and I conduct research on co-designing hardware-algorithms for resource-efficient acquisition of multi-channel atrial electrograms for the early diagnosis of atrial fibrillation. 
