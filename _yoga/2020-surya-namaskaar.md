@@ -32,4 +32,5 @@ Surya namaskaar (Sun salutations)
 
 
 ![alt text](/images/blog_images/yoga_portfolio/IMG_1389.jpg)<br/>
-venue: "University 1, Department"
+
+Location: In front of Main Building, IISc, Bangalore. 
